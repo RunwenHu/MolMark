@@ -17,6 +17,9 @@ Clone the repo with `git clone`,
 ```bash
 git clone https://github.com/RunwenHU/WMM.git
 ```
+### QM9 dataset
+
+The QM9 dataset is available in https://drive.google.com/file/d/17rtuH_QGF6eUXTZOchV2kmY4oKFEj3sq/view?usp=sharing
 
 ### Train a model on qm9 dataset
 

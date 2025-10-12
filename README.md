@@ -7,6 +7,7 @@ Official implementation of [MolMark: Safeguarding Molecular Structures with Atom
 This work is based on the implementation of [Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks] (https://github.com/AlgoMole/GeoBFN) 
 ## Related works
 (1) FoldMark: Safeguarding Protein Structure Generative Models with Distributional and Evolutionary Watermarking (https://github.com/zaixizhang/FoldMark)
+
 (2) Securing the Language of Life: Inheritable Watermarks from DNA Language Models to Proteins
 
 ## Prerequisite

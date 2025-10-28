@@ -38,7 +38,7 @@ MolMark is the first watermarking strategy designed to protect moleucles. It:
 ### Environment setup
 Clone the repo with `git clone`,
 ```bash
-git clone https://github.com/RunwenHU/MolMAark.git
+git clone https://github.com/RunwenHU/MolMark.git
 ```
 
 ### Train a model on qm9 dataset
@@ -54,7 +54,7 @@ If you find this work helpful, please cite our paper:
 @article{hu2024molmark,
   title={MolMark: Safeguarding Molecular Structures with Atom-Level Watermarking},
   author={Hu, Runen and Chen, Peilin and Ding, Keyan and Wang, Shiqi},
-  journal={arXiv },
+  journal={arXiv},
   year={2025},
 }
 ```
